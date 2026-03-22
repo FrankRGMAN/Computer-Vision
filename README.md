@@ -1,5 +1,18 @@
-# Proyecto 6: Computer Vision
+# \# Sistema de asistencia automatizada con Deepface
 
-*Escribe aquí una breve descripción de tu proyecto*
+# 
 
-*Escribe un instructivo de cómo podemos utilizar tu software (incluye instrucciones para crear entorno virtual)*
+# Este proyecto utiliza la librería \*\*Deepface\*\* para reconocer rostros en tiempo real y registrar asistencia automáticamente.
+
+# 
+
+# \## Instalación
+
+# ```bash
+
+# python -m venv venv
+
+# venv\\Scripts\\activate   # Windows
+
+# pip install -r requirements.txt
+
