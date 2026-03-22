@@ -1,0 +1,1 @@
+# pega aquí el contenido completo de asistencia_debug_verbose.py que te facilité

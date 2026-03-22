@@ -1,0 +1,16 @@
+{
+  "Frank": {
+    "tipo": "adulto",
+    "foto": "C:\\Users\\A51\\Computer-Vision\\proyecto3_hogar\\residentes\\Frank.jpg",
+    "preferencias": {
+      "musica": "Jazz relajante / Lo-fi",
+      "iluminacion": "60% — tono cálido 3000K",
+      "temperatura": "22°C",
+      "tv": "Noticias / Series",
+      "extras": [
+        "Cafetera automática",
+        "Privacidad en ventanas"
+      ]
+    }
+  }
+}
